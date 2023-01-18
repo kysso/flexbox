@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Raleway:wght@200&display=swap');
+
+.container div {
+    background-color: rgb(228, 60, 60);
+    margin: 10px;
+    padding: 1%;
+    font-family: 'Bangers', cursive;
+    border: 7px ridge #FFD700;
+
+
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+
+}
+
+body {
+    background-color: black;
+}
